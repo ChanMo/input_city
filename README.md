@@ -3,8 +3,9 @@
 
 ## 使用方法
 1 引入js文件
+>`<link rel="stylesheet" href="city.css">`
 >`<script src="//cdn.bootcss.com/jquery/2.1.4/jquery.js"></script>`
-`<script src="city.js"></script>`
+>`<script src="city.js"></script>`
 
 2 把type修改为star
 >`<input type="star" name="test">`
